@@ -1,6 +1,6 @@
 cask "hostflow" do
-  version "1.0.7"
-  sha256 "f854bdf9ede42df3e3db83818997f306288486c728e33da486571e68edce9348"
+  version "1.0.8"
+  sha256 "fc7b7132074756917d6a0fd7f59046197827e66102ced61a2db36987e9443cd7"
 
   url "https://github.com/colilab/hosts-flow/releases/download/#{version}/HostFlow-#{version}.dmg"
   name "Host Flow"
